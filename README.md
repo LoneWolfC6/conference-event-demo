@@ -40,7 +40,6 @@ This project highlights the essentials of an event or conference site—focusing
 ## Live Demo:
 Check out the live site here:  
 **https://lonewolfc6.github.io/summit-nexus-demo/**  
-*(replace with your actual repo/demo URL once pushed)*
 
 ---
 
@@ -65,5 +64,4 @@ It can easily serve as a template for freelance web projects or small-to-mid-siz
 
 ## Contact:
 Built by **Brandon Jamison**  
-Feel free to reach out if you'd like a custom website for your business or project.
-
+For project inquiries or collaborations, feel free to [email me](brandonjamison.dev@gmail.com).
